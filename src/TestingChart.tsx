@@ -47,7 +47,7 @@ const letterFrequencyChart = defineChart({
   tooltip,
 });
 
-export const CustomChart = () => {
+export const TestingChart = () => {
   return (
     <Chart
       definition={letterFrequencyChart}
